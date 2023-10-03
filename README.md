@@ -16,7 +16,9 @@ The notes are categorized into different sections for ease of navigation. You ca
 
 ## Obsidian Compatibility
 
-For an enhanced reading experience and a cleaner view, it's recommended to use Obsidian software on the desktop. However, both web browsers and Obsidian can generate Markdown, providing convenience for different preferences.
+For an enhanced and the best reading experience and a cleaner view, it's recommended to use Obsidian software on the desktop.
+
+However, both web browsers and Obsidian can generate Markdown, providing convenience for different preferences.
 
 Explore the content seamlessly using your preferred platform.
  
