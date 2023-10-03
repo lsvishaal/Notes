@@ -14,6 +14,9 @@ For the complete document, including diagrams and additional details, please ref
 
 The notes are categorized into different sections for ease of navigation. You can find the summarized content under each section.
 
-## Feedback
+## Obsidian Compatibility
 
-If you have any feedback or suggestions for improving these notes, please don't hesitate to open an issue or contact the repository owner.
+For an enhanced reading experience and a cleaner view, it's recommended to use Obsidian software on the desktop. However, both web browsers and Obsidian can generate Markdown, providing convenience for different preferences.
+
+Explore the content seamlessly using your preferred platform.
+ 
